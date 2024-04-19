@@ -140,6 +140,9 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/download/331410/gitlab.svg" alt="GitLab" width="40" height="40">
   </a>
+  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/500px-Bitbucket-blue-logomark-only.svg.png?20190310101817" alt="Bitbucket" width="40" height="40">
+  </a>
 </p>
 
 <p>
