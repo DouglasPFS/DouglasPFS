@@ -8,13 +8,13 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-   <a href="https://dev.to/dev.douglas" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.douglas" height="30" width="40" />
+   <a href="https://whatsa.me/5511970931481" target="_blank" rel="noreferrer"> 
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-8.svg" alt="douglas ramos moreira" height="30" width="40" 
    </a>
-   <a href="https://linkedin.com/in/douglas ramos moreira" target="blank">
+   <a href="https://br.linkedin.com/in/douglasramosmoreira" target="blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglas ramos moreira" height="30" width="40" />
    </a>
-   <a href="https://fb.com/douglas ramos moreira" target="blank">
+   <a href="https://www.facebook.com/douglas.ramosmoreira" target="blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="douglas ramos moreira" height="30" width="40" />
    </a>
    <a href="https://instagram.com/douguetta" target="blank">
@@ -117,6 +117,15 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
   </a> 
 </p> 
+<h3 align="left">Testing </h3>
+<p align="left">
+  <a href="https://junit.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://javacodehouse.com/assets/img/thumb/JUnit.svg" alt="JUnit" width="40" height="40"/> 
+  </a>
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://javacodehouse.com/assets/img/thumb/Mockito.svg" alt="Mockito" width="40" height="40"/> 
+  </a>
+</p>
 <h3 align="left">Software</h3>
 <p align="left"> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
@@ -131,9 +140,10 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglasFPS&show_icons=true&locale=en&layout=compact" alt="DouglasFPS" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglasPFS&show_icons=true&locale=en&layout=compact" alt="DouglasPFS" />
+</p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DouglasFPS&show_icons=true&locale=en" alt="DouglasFPS"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DouglasPFS&show_icons=true&locale=en" alt="DouglasPFS"/>
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasFPS&" alt="DouglasFPS" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasPFS&" alt="DouglasPFS" /></p>
